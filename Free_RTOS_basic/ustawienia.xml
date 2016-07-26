@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="C Source File">
+<includepath workspace_path="true">/stm32f4discovery_hal_lib</includepath>
+<includepath>${ProjDirPath}/inc</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/CMSIS/core</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/CMSIS/device</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/HAL_Driver/Inc/Legacy</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/HAL_Driver/Inc</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ampire480272</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ampire640480</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/Common</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/cs43l22</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/exc7200</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ft6x06</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ili9325</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ili9341</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/l3gd20</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/lis302dl</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/lis3dsh</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ls016b8uy</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/lsm303dlhc</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/mfxstm32l152</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/n25q128a</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/n25q256a</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/n25q512a</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/otm8009a</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ov2640</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/s25fl512s</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/s5k5cag</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/st7735</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/st7789h2</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/stmpe1600</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/stmpe811</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ts3510</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/wm8994</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/STM32F4-Discovery</includepath>
+<includepath>${ProjDirPath}/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS</includepath>
+<includepath>${ProjDirPath}/Middlewares/Third_Party/FreeRTOS/Source/include</includepath>
+<includepath>${ProjDirPath}/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F</includepath>
+
+</language>
+<language name="S">
+<includepath workspace_path="true">/stm32f4discovery_hal_lib</includepath>
+<includepath>${ProjDirPath}/inc</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/CMSIS/core</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/CMSIS/device</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/HAL_Driver/Inc/Legacy</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/HAL_Driver/Inc</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ampire480272</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ampire640480</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/Common</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/cs43l22</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/exc7200</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ft6x06</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ili9325</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ili9341</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/l3gd20</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/lis302dl</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/lis3dsh</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ls016b8uy</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/lsm303dlhc</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/mfxstm32l152</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/n25q128a</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/n25q256a</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/n25q512a</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/otm8009a</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ov2640</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/s25fl512s</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/s5k5cag</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/st7735</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/st7789h2</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/stmpe1600</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/stmpe811</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ts3510</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/wm8994</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/STM32F4-Discovery</includepath>
+<includepath>${ProjDirPath}/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS</includepath>
+<includepath>${ProjDirPath}/Middlewares/Third_Party/FreeRTOS/Source/include</includepath>
+<includepath>${ProjDirPath}/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F</includepath>
+
+</language>
+<language name="S">
+
+</language>
+<language name="C++ Source File">
+
+</language>
+<language name="Object File">
+
+</language>
+<language name="s">
+<includepath workspace_path="true">/stm32f4discovery_hal_lib</includepath>
+<includepath>${ProjDirPath}/inc</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/CMSIS/core</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/CMSIS/device</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/HAL_Driver/Inc/Legacy</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/HAL_Driver/Inc</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ampire480272</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ampire640480</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/Common</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/cs43l22</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/exc7200</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ft6x06</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ili9325</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ili9341</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/l3gd20</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/lis302dl</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/lis3dsh</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ls016b8uy</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/lsm303dlhc</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/mfxstm32l152</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/n25q128a</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/n25q256a</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/n25q512a</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/otm8009a</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ov2640</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/s25fl512s</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/s5k5cag</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/st7735</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/st7789h2</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/stmpe1600</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/stmpe811</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ts3510</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/wm8994</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/STM32F4-Discovery</includepath>
+<includepath>${ProjDirPath}/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS</includepath>
+<includepath>${ProjDirPath}/Middlewares/Third_Party/FreeRTOS/Source/include</includepath>
+<includepath>${ProjDirPath}/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F</includepath>
+
+</language>
+<language name="Assembly Source File">
+<includepath workspace_path="true">/stm32f4discovery_hal_lib</includepath>
+<includepath>${ProjDirPath}/inc</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/CMSIS/core</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/CMSIS/device</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/HAL_Driver/Inc/Legacy</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/HAL_Driver/Inc</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ampire480272</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ampire640480</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/Common</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/cs43l22</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/exc7200</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ft6x06</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ili9325</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ili9341</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/l3gd20</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/lis302dl</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/lis3dsh</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ls016b8uy</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/lsm303dlhc</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/mfxstm32l152</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/n25q128a</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/n25q256a</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/n25q512a</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/otm8009a</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ov2640</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/s25fl512s</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/s5k5cag</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/st7735</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/st7789h2</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/stmpe1600</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/stmpe811</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/ts3510</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/Components/wm8994</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities</includepath>
+<includepath workspace_path="true">/stm32f4discovery_hal_lib/Utilities/STM32F4-Discovery</includepath>
+<includepath>${ProjDirPath}/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS</includepath>
+<includepath>${ProjDirPath}/Middlewares/Third_Party/FreeRTOS/Source/include</includepath>
+<includepath>${ProjDirPath}/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F</includepath>
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="C Source File">
+<macro>
+<name>STM32F407VGTx</name><value/>
+</macro>
+<macro>
+<name>STM32F4</name><value/>
+</macro>
+<macro>
+<name>STM32F4DISCOVERY</name><value/>
+</macro>
+<macro>
+<name>STM32</name><value/>
+</macro>
+<macro>
+<name>USE_HAL_DRIVER</name><value/>
+</macro>
+<macro>
+<name>STM32F407xx</name><value/>
+</macro>
+<macro>
+<name>USE_RTOS_SYSTICK</name><value/>
+</macro>
+
+</language>
+<language name="S">
+<macro>
+<name>STM32F407VGTx</name><value/>
+</macro>
+<macro>
+<name>STM32F4</name><value/>
+</macro>
+<macro>
+<name>STM32F4DISCOVERY</name><value/>
+</macro>
+<macro>
+<name>STM32</name><value/>
+</macro>
+<macro>
+<name>USE_HAL_DRIVER</name><value/>
+</macro>
+<macro>
+<name>STM32F407xx</name><value/>
+</macro>
+<macro>
+<name>USE_RTOS_SYSTICK</name><value/>
+</macro>
+
+</language>
+<language name="S">
+
+</language>
+<language name="C++ Source File">
+
+</language>
+<language name="Object File">
+
+</language>
+<language name="s">
+
+</language>
+<language name="Assembly Source File">
+
+</language>
+</section>
+</cdtprojectproperties>
